@@ -1,0 +1,5 @@
+== Ejercicio 0 ==
+a) Local por ser información privada y estar dentro del alcance de un modelo local.
+b) En la nube por estar fuera de las capacidades de un modelo local.
+c) Local por no tener acceso a Internet en el momento de uso.
+d) Ambos funcionarían, siempre que el modelo tenga acceso a la fuente de información.
