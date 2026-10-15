@@ -3,3 +3,8 @@ a) Local por ser información privada y estar dentro del alcance de un modelo lo
 b) En la nube por estar fuera de las capacidades de un modelo local.
 c) Local por no tener acceso a Internet en el momento de uso.
 d) Ambos funcionarían, siempre que el modelo tenga acceso a la fuente de información.
+
+== Ejercicio B3 - Tu número ==
+Con Recado y Más amable en mi celular Huawei, el modelo corrió a 5.8 tokens/segundo, tomó 256 tokens la respuesta completa, y la primera palabra tardó 3 segundos en aparecer. El modelo sí hizo lo solicitado. Los tokens/segundo fueron mayormente constantes.
+
+El modelo dio 3 opciones del texto, y al final dio dos consideraciones para un texto más amable. Considero que la primera es demasiado halagadora (eg "Aprecio mucho tu esfuerzo..."). La segunda opción tiene una pregunta con gramática inusual ("podrías limpiarlos hoy y me ayudarías mucho con eso?) además de no tener signo de interrogación inicial ("¿"). La opción 3 me parece la más adecuada.
